@@ -3,7 +3,7 @@
   "name": "Vault Clone",
   "version": "0.1.0",
   "minAppVersion": "1.5.0",
-  "description": "Create a new vault by cloning the theme and configuration of an existing one.",
+  "description": "Create a new Obsidian vault from another known vault's theme or full configuration.",
   "author": "Ezra-Y",
   "authorUrl": "https://github.com/Ezra-Y",
   "isDesktopOnly": true
