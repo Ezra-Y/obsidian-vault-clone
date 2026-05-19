@@ -1,0 +1,21 @@
+{
+  "name": "obsidian-vault-clone",
+  "version": "0.1.0",
+  "description": "Obsidian plugin to create a vault from another vault's configuration or import config into the current vault.",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsc -w -p tsconfig.json"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "obsidian": "^1.12.3",
+    "typescript": "^6.0.3"
+  }
+}
